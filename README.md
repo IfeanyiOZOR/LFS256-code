@@ -1,2 +1,2 @@
-# LFS256-code
-Code for DevOps and Workflow Management with Argo (LFS256)
+# CI/CD Setup in ArgoCD
+Practical CI/CD Deployment Code with Argo
